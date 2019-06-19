@@ -1,0 +1,30 @@
+{
+  "name": "homebridge-commax-switch",
+  "version": "0.2.9",
+  "description": "Commax Home Automation Switch for Homebridge",
+  "main": "index.js",
+  "keywords": [
+    "homebridge-plugin",
+    "homebridge",
+    "commax"
+  ],
+  "engines": {
+    "homebridge": ">=0.4.0",
+    "node": ">=0.10.0"
+  },
+  "author": "RubyOn",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rubyon/homebridge-commax-switch.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rubyon/homebridge-commax-switch/issues",
+    "email": "rubyon@me.com"
+  },
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4",
+    "timer": "^0.0.2"
+  }
+}
