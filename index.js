@@ -1,3 +1,5 @@
+"use strict"
+
 let Service, Characteristic
 
 let timer = require('timer')
