@@ -1,6 +1,6 @@
 {
   "name": "homebridge-commax-switch",
-  "version": "0.2.9",
+  "version": "0.3.0",
   "description": "Commax Home Automation Switch for Homebridge",
   "main": "index.js",
   "keywords": [
