@@ -22,8 +22,8 @@ $ sudo npm install -g --unsafe-perm homebridge-commax-switch
         {
             "accessory": "CommaxSwitch",
             "name": "전등 1",
-            "commax_ip": "14.x.x.x",
-            "home_ip": "10.x.x.x",
+            "commax_ip": "211.48.32.29",
+            "home_ip": "10.4.12.21",
             "device": "light",
             "device_id": 1,
             "interval": 5000
@@ -31,8 +31,8 @@ $ sudo npm install -g --unsafe-perm homebridge-commax-switch
         {
             "accessory": "CommaxSwitch",
             "name": "전등 2",
-            "commax_ip": "14.x.x.x",
-            "home_ip": "10.x.x.x",
+            "commax_ip": "211.48.32.29",
+            "home_ip": "10.4.12.21",
             "device": "light",
             "device_id": 2,
             "interval": 5000
@@ -40,8 +40,8 @@ $ sudo npm install -g --unsafe-perm homebridge-commax-switch
         {
             "accessory": "CommaxSwitch",
             "name": "가스밸브",
-            "commax_ip": "14.x.x.x",
-            "home_ip": "10.x.x.x",
+            "commax_ip": "211.48.32.29",
+            "home_ip": "10.4.12.21",
             "device": "gas",
             "device_id": 3,
             "interval": 5000
